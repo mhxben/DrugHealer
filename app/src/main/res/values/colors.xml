@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="bg_color">#1c1054</color>
+    <color name="bg_secondary_color">#716fd0</color>
+
+    <color name="bg_selected">#1c1054</color>
+    <color name="bg_unselected">#3c2ea1</color>
+
+    <color name="bg_btn">#c7b8ff</color>
+    <color name="input_color">#c2d9ff</color>
+</resources>

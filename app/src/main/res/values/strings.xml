@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Drug Healer</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="forget_password"><u>Forget password ?</u></string>
+    <string name="or">Or</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="reset_password">Reset Password</string>
+    <string name="please_enter_your_email">Please Enter your Email</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_the_code_sent_to_your_email">Please Enter the Code Sent to your Email</string>
+    <string name="ex_gmail_com">ex*****@gmail.com</string>
+    <string name="confirm">Confirm</string>
+    <string name="please_enter_your_new_password">Please Enter your New Password</string>
+    <string name="how_much_do_you_spend_on_drugs_per_day">How much do you spend on drugs per day</string>
+    <string name="next">Next</string>
+    <string name="you_will_save_in_a_week">You will save in a week:</string>
+    <string name="you_will_save_in_a_month">You will save in a month:</string>
+    <string name="you_will_be_courage_to_stop_drugs_since">You will be courage to stop drugs since?</string>
+</resources>
